@@ -1,4 +1,4 @@
-- **Phone Number:** [+201062458166](tel:+0201062458166)              **Email: amryasin1@gmail.com**
+ **Phone Number:** **[+201062458166](tel:+0201062458166)**             **Email: amryasin1@gmail.com**
 
 **I am IT Professional seeking a position as an Senior Full Stack Developer** **where I can prove my developing skills, work in challenging enviroment and gain experience.** 
 
@@ -8,10 +8,10 @@
 
 **Personal Skills**
 
-- Problem Solving , Creative Thinking and Presentation**.**
-- Communication skills and Self-learning**.**
-- Ability to work as a team member or individual basis**.**
-- Working under stress and problem solving skills**.**
+- Problem Solving , Creative Thinking and Presentation
+- Communication skills and Self-learning
+- Ability to work as a team member or individual basis
+- Working under stress and problem solving skills
 
 
 **Technical Skills:**
@@ -34,20 +34,20 @@
 - System Integration.
 - Jwt,HangFire, Serilog, SignalR.
 
-`  `**Education:**
+**Education:**
 
-- University  Mansoura University**.**
-- Faculty:Faculty Of Computer and Information systems**.**
+- University  Mansoura University
+- Faculty:Faculty Of Computer and Information systems
 - Computer Science Department.
-- Grade: good**.**
-- Graduation Year: 2017**.**
+- Grade: good
+- Graduation Year: 2017
 
-`  `**Languages**
+**Languages**
 
-- Arabic: Mother Language**.**
-- English: Good Write and spoken**.**
+- Arabic: Mother Language
+- English: Good Write and spoken
 
-`   `**Personal Data:**   
+**Personal Data:**   
 
-- Date of Birth: 01-10-1995**.**
+- Date of Birth: 01-10-1995
 - Military service:finished                  
