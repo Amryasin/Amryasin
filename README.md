@@ -1,4 +1,8 @@
- **Phone Number:** **[+201062458166](tel:+0201062458166)**             **Email: amryasin1@gmail.com**
+[![Email](https://img.shields.io/badge/Email-amryasin1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amryasin1@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-201062458166-008000?style=for-the-badge&logo=phone&logoColor=white)](tel:+201062458166)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-abdo-b448b619b/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/20106245166)
+
 
 **I am IT Professional seeking a position as an Senior Full Stack Developer** **where I can prove my developing skills, work in challenging enviroment and gain experience.** 
 
