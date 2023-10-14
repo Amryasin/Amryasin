@@ -28,7 +28,7 @@
 - Microsoft Dynamics 365 CRM.
 - Windwos Forms,WPF ,Crystal Reports.
 - Flutter , Dart ,Cordova.
-- Oracle  Pl ,Sql , OracleDataBase Oracle Apex**.** 
+- Oracle  Pl ,Sql , OracleDataBase Oracle Apex
 - Javascript , Type Script, jQuery
 - HTML , CSS , Bootstrap.
 - XML , Json
